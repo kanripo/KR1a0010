@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易舉正
-#+DATE: 2015-09-23 09:34:12
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:53:33.662845
+#+PROPERTY: ID KR1a0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下
 <pb:KR1a0010_WYG_003-1a>¶
 欽定四庫全書¶
 　周易舉正卷下¶
@@ -146,4 +148,3 @@
 　¶
 　¶
 　周易舉正卷下¶
-
